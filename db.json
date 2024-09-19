@@ -1,0 +1,94 @@
+{
+  "jobs": [
+    {
+      "id": 2,
+      "position": "Backend Dev",
+      "company": "Kodlama",
+      "location": "Istanbul",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": "3/30/2023"
+    },
+    {
+      "id": 3,
+      "position": "Product Manager",
+      "company": "Softserve",
+      "location": "San Francisco",
+      "status": "Başvuru",
+      "type": "Staj",
+      "date": "04/30/2023"
+    },
+    {
+      "id": 4,
+      "position": "Mobile Developer",
+      "company": "CyberSolutions",
+      "location": "Seoul",
+      "status": "Teklif",
+      "type": "Staj",
+      "date": "07/27/2023"
+    },
+    {
+      "id": 5,
+      "position": "Data Analyst",
+      "company": "DigitalOcean",
+      "location": "Seoul",
+      "status": "Değerlendirme",
+      "type": "Staj",
+      "date": "02/04/2024"
+    },
+    {
+      "id": 6,
+      "position": "System Administrator",
+      "company": "InnovateX",
+      "location": "Paris",
+      "status": "Başvuru",
+      "type": "Tam Zamanlı",
+      "date": "06/10/2023"
+    },
+    {
+      "id": 7,
+      "position": "AI Specialist",
+      "company": "Softserve",
+      "location": "Seoul",
+      "status": "Başvuru",
+      "type": "Staj",
+      "date": "06/13/2023"
+    },
+    {
+      "id": 8,
+      "position": "Frontend Dev",
+      "company": "BlueSky",
+      "location": "Tokyo",
+      "status": "Teklif",
+      "type": "Yarı Zamanlı",
+      "date": "12/08/2023"
+    },
+    {
+      "id": 9,
+      "position": "System Administrator",
+      "company": "Techify",
+      "location": "Seoul",
+      "status": "Teklif",
+      "type": "Tam Zamanlı",
+      "date": "02/07/2024"
+    },
+    {
+      "id": 10,
+      "position": "Frontend Dev",
+      "company": "DevCore",
+      "location": "Tokyo",
+      "status": "Red",
+      "type": "Tam Zamanlı",
+      "date": "09/18/2023"
+    },
+    {
+      "id": 11,
+      "position": "Frontend Dev",
+      "company": "Techify",
+      "location": "Toronto",
+      "status": "Teklif",
+      "type": "Yarı Zamanlı",
+      "date": "08/30/2023"
+    }
+  ]
+}
