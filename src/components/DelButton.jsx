@@ -1,8 +1,8 @@
-const DelButton = () => {
+const DelButton = ({ handleDelete }) => {
   return (
     <div>
       {/* From Uiverse.io by vinodjangid07  */}
-      <button class="bin-button">
+      <button onClick={handleDelete} className="bin-button">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           fill="none"
